@@ -1,0 +1,20 @@
+How do our ears hear where the sound is coming from?
+Lewis Saunders
+ls156@york.ac.uk
+BEng Project 2006 supporting materials
+
+Contents of this CD:
+
+/errorscalarise: 	error scalarisation source code
+/slicearithmetic: 	slice set arithmetic source code
+/slicedecimate: 	slice set decimator source code
+/testdata: 		a selection of slice sets
+	HE6sym2a.sli: 				original test head slice set
+	HE6sym2a_deci8.sli: 			original head decimated by 8
+	HE6sym2a_deci8_cheekbone.sli: 		original head with enlarged cheek
+	HE6sym2a_deci8_cheekbone.sli3: 		original head with enlarged cheek error values
+	HE6sym2a_deci8_cheekbone_error.sli: 	cheek deformation delta
+	sphere_smooth.sli: 			spherical slice set
+/visualise:		visualisation source code
+slices.blend:		Blender scene file containing import and export scripts
+report.pdf:		project report (with colour illustrations)
